@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat Astronaut
+* source:	https://sketchfab.com/3d-models/cat-astronaut-ed382a0ffe2e44709a04d5df4e1f17ee
+* author:	kingtinee (https://sketchfab.com/kingtinee)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat Astronaut" (https://sketchfab.com/3d-models/cat-astronaut-ed382a0ffe2e44709a04d5df4e1f17ee) by kingtinee (https://sketchfab.com/kingtinee) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
